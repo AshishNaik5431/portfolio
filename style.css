@@ -16,6 +16,7 @@ iframe
 body
 {
     margin: 0;
+    line-height: 1.5;
 }
 
 /*Cover*/
@@ -31,6 +32,11 @@ img.cover-photo
     left: 50%;
     margin-left: -50px;
     margin-top: 50px;
+}
+h1.h1portfolio
+{
+    color: white;
+    font-style: white;
 }
 h1
 {
