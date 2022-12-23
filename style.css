@@ -36,7 +36,6 @@ img.cover-photo
 h1.h1portfolio
 {
     color: white;
-    font-style: white;
 }
 h1
 {
@@ -57,7 +56,7 @@ p.cover
     color: lightgray;
     text-align: center;
     font-size: 14px;
-    margin-top: 8px;
+    margin-top: -10px;
 }
 a.cover
 {
